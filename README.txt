@@ -2,7 +2,7 @@ Para utilizar esta pre carga de laravel debes descargarlo como .Zip o clonarlo d
 en esta version de laravel 8 viene incluido Bootstrap 5.2, Laravel Auth y traduccion de alertas de laravel a español.
 
 al clonar o descargar la capeta debes ejecutar los comandos (composer install , npm install)
-y crear un archivo .env con esto
+y crear un archivo .env con lo siguiente:
 
 APP_NAME=Laravel
 APP_ENV=local
